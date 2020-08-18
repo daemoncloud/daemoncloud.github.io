@@ -2,7 +2,7 @@
 title: civ
 description: daemon
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "http://civforever.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://civforever.com"
 
 # User settings
 username: Daemon
